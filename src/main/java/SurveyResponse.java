@@ -9,5 +9,6 @@
  * @author borde
  */
 public class SurveyResponse {
-    
+    protected Answer[] answers;
+    protected 
 }
